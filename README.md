@@ -65,9 +65,9 @@ Mi objetivo es seguir potenciando soluciones tecnológicas de clase mundial, int
 ## 📫 ¿Hablamos?
 
 Si te interesa colaborar, intercambiar ideas o necesitas apoyo técnico:
-- 📧 Email: [Tu correo aquí]
-- 💼 LinkedIn: [Tu perfil de LinkedIn aquí]
-- 🌐 Blog/Tecnologías: [Tu blog personal o portafolio si tienes]
+- 📧 Email: []
+- 💼 LinkedIn: [https://www.linkedin.com/in/omar-andres-c-04a153a6/]
+- 🌐 Blog/Tecnologías: [https://www.uwasoft.com.co]
 
 ---
 
